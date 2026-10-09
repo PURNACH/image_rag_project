@@ -1,0 +1,13 @@
+streamlit
+opencv-python
+pytesseract
+Pillow
+numpy
+python-dotenv
+langchain
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+langchain-groq
+sentence-transformers
+chromadb
